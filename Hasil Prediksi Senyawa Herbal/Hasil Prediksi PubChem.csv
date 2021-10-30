@@ -1,0 +1,188 @@
+Compounds,ProteinList,Probability,Total
+Casuarinin,PRKCA,[1.0],1
+Cycloeucalenol,CSNK2A1,[0.9999497],1
+Fenchone,CSNK2A1,[0.99992883],1
+Cycloeucalenone,CSNK2A1,[0.999928],1
+Momordenol,CSNK2A1,[0.9999192],1
+B-sitosterol,CSNK2A1,[0.99990654],1
+Campesterol,CSNK2A1,[0.99990654],1
+Beta sitosterol,CSNK2A1,[0.99990654],1
+24-isopropyl cholesterol,CSNK2A1,[0.99990654],1
+Momordicine 1,CSNK2A1,[0.9998989],1
+Cycloarthenol,CSNK2A1,[0.99989605],1
+"(3beta,23e)-3-hydroxy-27-norcycloart-23-en-25-one",CSNK2A1,[0.99976605],1
+Cucurbitane,CSNK2A1,[0.99972516],1
+Diosgenin,"CSNK2A1,PRKCA","[0.9992392,0.67388093]",2
+Gibberelins,CSNK2A1,[0.9990947],1
+Auxins,EGFR,[0.99888414],1
+Naringin,"PRKCA,EGFR","[0.99882466,0.5928809]",2
+Stigmasterol-3-o-glucoside,"CSNK2A1,PRKCA","[0.9980564,0.6010876]",2
+Rhamnetin,PRKCA,[0.997912],1
+Ligan library pare,"CSNK2A1,PRKCA","[0.9978666,0.60761064]",2
+Charantin,"CSNK2A1,PRKCA","[0.9978666,0.60761064]",2
+Cucurbitacin g/h,CSNK2A1,[0.99745303],1
+Cucurbitacin r,CSNK2A1,[0.9973814],1
+Cucurbitacin i,CSNK2A1,[0.9970439],1
+Cucurbitacin j,CSNK2A1,[0.9969207],1
+Cucurbitacin k,CSNK2A1,[0.9969207],1
+Cucurbitacin l,CSNK2A1,[0.99681574],1
+Cucurbitacin d,CSNK2A1,[0.9966993],1
+Epi-friedelanol,PRKCA,[0.9965101],1
+Cucurbitacin a,CSNK2A1,[0.996323],1
+Cucurbitacin e,CSNK2A1,[0.9955401],1
+Hesperidine,PRKCA,[0.9951526],1
+Cucurbitacin b,CSNK2A1,[0.9951072],1
+Epicathecin 3-o-gallate,PRKCA,[0.994825],1
+Camphene,CSNK2A1,[0.99481356],1
+Epigallocathecin 3-o-gallate,PRKCA,[0.9947917],1
+Corilagin,PRKCA,[0.9943479],1
+Goyaglycoside c,"CSNK2A1,PRKCA","[0.9933693,0.82580936]",2
+Goyaglycoside a,"CSNK2A1,PRKCA","[0.99323684,0.82517236]",2
+Cucurbitacin c,CSNK2A1,[0.9932156],1
+Cucurbitacin s,CSNK2A1,[0.9932098],1
+A-bergamoten,CSNK2A1,[0.99072355],1
+Betulinic acid,CSNK2A1,[0.9902418],1
+A-pinene,CSNK2A1,[0.98985773],1
+Goyaglycoside h,CSNK2A1,[0.9894623],1
+Cucurbitacin p,CSNK2A1,[0.9893622],1
+Furosin,PRKCA,[0.9891677],1
+Goyaglycoside f,"CSNK2A1,PRKCA","[0.98675925,0.7402675]",2
+Glucobrassicin,EGFR,[0.986698],1
+Ruberythric acid,PRKCA,[0.9862555],1
+Cucurbitacin f,CSNK2A1,[0.98603004],1
+Cucurbitacin o,CSNK2A1,[0.98603004],1
+Nirurin,PRKCA,[0.9858381],1
+Erythrodiol,PRKCA,[0.98580533],1
+Goyaglycoside g,"CSNK2A1,PRKCA","[0.9855009,0.883361]",2
+Goyaglycoside e,"CSNK2A1,PRKCA","[0.9855009,0.883361]",2
+B-salinene,CSNK2A1,[0.9847472],1
+Repandusinic acid,PRKCA,[0.9840105],1
+A-cadinol,CSNK2A1,[0.9820302],1
+D-cadinene,CSNK2A1,[0.9815383],1
+A-cadinene,CSNK2A1,[0.9815383],1
+A-muurolene,CSNK2A1,[0.9815383],1
+Cucurbitacin q,CSNK2A1,[0.98091114],1
+Momordicinin,PRKCA,[0.98057723],1
+Friedelin,PRKCA,[0.9805633],1
+A-copaene,CSNK2A1,[0.9799519],1
+Ylangene,CSNK2A1,[0.9799519],1
+Cadalene,CSNK2A1,[0.97985923],1
+Cis calamenene,CSNK2A1,[0.97914267],1
+A-calacorene,CSNK2A1,[0.97914267],1
+"(+)-2,3-Dihydro-9-hydroxy",PRKCA,[0.97802013],1
+Tetrahydroxyflavone,PRKCA,[0.9765869],1
+Y-cardinene,CSNK2A1,[0.9760442],1
+8-hydroxy-8-methoxy-2-methyl-anthraquinone,CSNK2A1,[0.9726648],1
+A-selinene,CSNK2A1,[0.970022],1
+Cyanidin-3,PRKCA,[0.9659431],1
+Spathulenol,AR,[0.96377647],1
+Petunidin-3-gentiobioside,PRKCA,[0.961753],1
+Malvidin-3-laminaribioside,PRKCA,[0.961753],1
+Aloemodin w-acetate,CSNK2A1,[0.96103543],1
+Cyanidin diglycoside,PRKCA,[0.95830697],1
+Delphinidin-3-gentiobioside,PRKCA,[0.9580464],1
+Delphinidin 3-sambubioside,PRKCA,[0.9580464],1
+Quercetin-3,PRKCA,[0.9570762],1
+Ledol,AR,[0.9561039],1
+Proanthocyanidin a2,PRKCA,[0.95598996],1
+Geranin b,PRKCA,[0.95598996],1
+Tinocordiside,CSNK2A1,[0.9547524],1
+Peonidin-3,PRKCA,[0.95087],1
+Mangiferin,PRKCA,[0.95046586],1
+Cyanidin 3-xyloglucoside,PRKCA,[0.94570655],1
+Cyanidin-3-sambubioside,PRKCA,[0.94570655],1
+Geranin a,PRKCA,[0.94531256],1
+Morenone 2,CSNK2A1,[0.9394731],1
+arabinopyrano,PRKCA,[0.93564546],1
+Vicenin,PRKCA,[0.93564546],1
+Amritoside,PRKCA,[0.93115515],1
+Cuminaldehyde,EGFR,[0.92375034],1
+Ermanin,EGFR,[0.92299443],1
+Rutin,PRKCA,[0.91847175],1
+Ligan library brotowali,CSNK2A1,[0.9180451],1
+11-hydroxymutakone,CSNK2A1,[0.9180451],1
+Morindin,PRKCA,[0.91700745],1
+Delphinidin-3-glucoside,PRKCA,[0.9046714],1
+P-cymene,EGFR,[0.9044299],1
+Columbin,PRKCA,[0.9024679],1
+Aloin,PRKCA,[0.8972463],1
+Library2,PRKCA,[0.8972463],1
+Library,PRKCA,[0.8972463],1
+Quercetin-3-o-rhamnoside,PRKCA,[0.8959167],1
+Quercitrin,PRKCA,[0.8959167],1
+Methyl cinnamate,EGFR,[0.8950302],1
+Spiraeoside,PRKCA,[0.89410126],1
+Oleanolic acid,PRKCA,[0.8937387],1
+Ursolic acid,PRKCA,[0.8937387],1
+Hyperoside,PRKCA,[0.8935458],1
+Isoquercetin,PRKCA,[0.8935458],1
+Isoquercetrin,PRKCA,[0.8935458],1
+Myricetin-3,PRKCA,[0.8933024],1
+Aromadendrene,AR,[0.89142245],1
+Ellagic acid,PRKCA,[0.8893385],1
+Charine,PRKCA,[0.8882318],1
+Gychirrethinic acid,PRKCA,[0.88686484],1
+Scutellarein,PRKCA,[0.8845872],1
+Cyanidin 3-glucoside,EGFR,[0.8809479],1
+Laurotetanine,PRKCA,[0.8729564],1
+Tinosporaside,PRKCA,[0.8727882],1
+Delphinin,EGFR,[0.8690504],1
+Aracetin,EGFR,[0.86583334],1
+Magnoflorine,PRKCA,[0.8652479],1
+Damnacanthal,CSNK2A1,[0.8603232],1
+Garcimangosone d,EGFR,[0.8561805],1
+Ethyl cinnamate,EGFR,[0.8526098],1
+7-hydroxy-8-o-methylaloin b,PRKCA,[0.84748393],1
+Aloinoside b,PRKCA,[0.8462508],1
+Kaempferol,EGFR,[0.8448478],1
+Aloemodin,CSNK2A1,[0.8347565],1
+Amariin,PRKCA,[0.8303403],1
+Cinnamic acid,EGFR,[0.8170011],1
+Rubiadin 1-methyl ether,CSNK2A1,[0.812763],1
+Physcione,CSNK2A1,[0.8123595],1
+Morenone 1,CSNK2A1,[0.8123595],1
+"2-methyl-4-hydroxy-5,7-dimethylanthraquinone",CSNK2A1,[0.8123595],1
+P-coumaric acid,EGFR,[0.80822045],1
+N-cisferuloyltyramine,EGFR,[0.8047032],1
+N-transferuloltyramine,EGFR,[0.8047032],1
+Cinnamaldehyde,EGFR,[0.80158496],1
+Z-cinnamaldehyde,EGFR,[0.80158496],1
+Sinamaldehid,EGFR,[0.80158496],1
+Cinnamyl acetate,EGFR,[0.7742572],1
+(z)-cinnamyl acetate,EGFR,[0.7742572],1
+Morindone,CSNK2A1,[0.7723937],1
+"2-methyl-3,5,6-trihydroxyanthraquinone",CSNK2A1,[0.7723937],1
+Soranjidiol,CSNK2A1,[0.760193],1
+Morindanidrine,CSNK2A1,[0.75375724],1
+Gossypetin 3-glucoside,PRKCA,[0.7525667],1
+Apigenin,EGFR,[0.7485715],1
+Hydrocinnamaldehyde,EGFR,[0.7418706],1
+Berberine2,TF,[0.7279592],1
+Y-mangostin,TF,[0.7279592],1
+2-phenylethyl benzoate,EGFR,[0.69440615],1
+Anisaldehyde,EGFR,[0.6924621],1
+Momordin i,PRKCA,[0.6863785],1
+Momordin lc,PRKCA,[0.6863785],1
+Kaempferol 3-o-alpha-l-rhamnopyranoside/afzelin,"PRKCA,EGFR","[0.68454057,0.73593605]",2
+Kaempferol-3,"PRKCA,EGFR","[0.67801285,0.7163886]",2
+Astragalin,"PRKCA,EGFR","[0.67801267,0.7163887]",2
+"5,6-dihydroxylucidin",CSNK2A1,[0.6758087],1
+5-hydroxyaloin a,PRKCA,[0.6672754],1
+Methyl chavicol,"PRKCA,EGFR","[0.66312015,0.8638818]",2
+Momordin ib,PRKCA,[0.65633225],1
+Benzyl benzoate,EGFR,[0.6425157],1
+Palmatine,PRKCA,[0.63735056],1
+3-carene,CSNK2A1,[0.6171814],1
+Hydrocinnamic acid,EGFR,[0.59409773],1
+Blumenol a,CSNK2A1,[0.5924564],1
+3-hydroxymorindone,CSNK2A1,[0.5884818],1
+Seco-isolariciresinol trimethyl ether,PRKCA,[0.5726894],1
+Safrole,EGFR,[0.56946105],1
+Aucubin,MAPK14,[0.54669225],1
+Momordicilin,"CSNK2A1,PRKCA","[0.54121655,0.88017637]",2
+Secoisolariciresinol,PRKCA,[0.53873605],1
+Phyllanthin,PRKCA,[0.5383905],1
+Cinnamyl alcohol,EGFR,[0.530358],1
+Benzaldehyde,EGFR,[0.5238626],1
+Germacrene-d,PRKCA,[0.5071571],1
+Geniposide,MAPK14,[0.50649947],1
